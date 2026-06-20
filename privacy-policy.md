@@ -9,23 +9,23 @@ Agitation is a film development timer and record-keeping app. This policy explai
 - Film development records you create, including film, developer, temperature, time, notes, and related workflow settings.
 - Sample photos that you choose to attach to records.
 - Local notification and Live Activity state used to run development timers.
-- Purchase and subscription status handled through Apple and RevenueCat.
+- Purchase, subscription, and Premium entitlement status handled through Apple and RevenueCat.
 - Basic diagnostic information provided by Apple, Expo, or RevenueCat when needed to operate and troubleshoot the app.
 
 ## How information is used
 
-Agitation uses this information to provide the app's core timer, data lookup, history, sample-photo, and subscription features. The app does not require an account for the first release.
+Agitation uses this information to provide the app's core timer, data lookup, history, sample-photo, and Premium purchase features. The app does not require an account for the first release.
 
 ## Storage
 
-Development records and sample photos are stored on your device unless you export or share them. Subscription status is processed by Apple and RevenueCat so the app can determine whether Premium is active.
+Development records and sample photos are stored on your device unless you export or share them. Purchase and entitlement status is processed by Apple and RevenueCat so the app can determine whether Premium is active.
 
 ## Third-party services
 
 Agitation uses:
 
-- Apple App Store for purchases, subscriptions, free trials, and subscription management.
-- RevenueCat for subscription status, entitlement checks, paywall presentation, and purchase restoration.
+- Apple App Store for purchases, subscriptions, free trials, one-time lifetime purchases, and subscription management.
+- RevenueCat for purchase and entitlement status, entitlement checks, paywall presentation, and purchase restoration.
 - Expo services for app updates, builds, and operational infrastructure.
 
 These services may process technical, purchase, and diagnostic information according to their own policies.

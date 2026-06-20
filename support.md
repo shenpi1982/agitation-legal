@@ -9,14 +9,14 @@ Please include:
 - A short description of the issue.
 - Steps to reproduce the problem, if possible.
 
-## Subscription help
+## Premium purchase help
 
-Purchases and subscriptions are managed by Apple. You can restore purchases from the Agitation subscription screen or manage your subscription in your App Store account settings.
+Purchases and subscriptions are managed by Apple. You can restore purchases from the Agitation Premium screen. Monthly and yearly subscriptions can be managed or canceled in your App Store account settings.
 
 ## Privacy
 
-See the Agitation Privacy Policy: https://shenpi1982.github.io/Agitation/legal/privacy-policy.html
+See the Agitation Privacy Policy: https://shenpi1982.github.io/agitation-legal/privacy-policy.html
 
 ## Terms
 
-See the Agitation Terms of Use: https://shenpi1982.github.io/Agitation/legal/terms-of-use.html
+See the Agitation Terms of Use: https://shenpi1982.github.io/agitation-legal/terms-of-use.html
