@@ -1,6 +1,6 @@
 # Agitation Privacy Policy
 
-Last updated: June 20, 2026
+Last updated: July 10, 2026
 
 Agitation is a film development timer and record-keeping app. This policy explains what information the app handles and how it is used.
 
@@ -30,9 +30,9 @@ Agitation uses:
 
 These services may process technical, purchase, and diagnostic information according to their own policies.
 
-## Photos and camera
+## Photos
 
-Agitation only accesses photos or the camera when you choose to add or capture sample photos. Photos are used for your development records.
+Agitation only accesses photos you choose from your photo library when you attach a sample photo to a development record. The first release does not use the camera.
 
 ## Notifications and Live Activities
 
